@@ -1,2 +1,2 @@
-# MOD
-# Applied machine learning for predicting outcomes
+# MOD/PLOD
+# Applied machine learning with database for housing market data
